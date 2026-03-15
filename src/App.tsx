@@ -18,7 +18,7 @@ export default function App() {
   const [status, setStatus] = useState("");
   const [experience, setExperience] = useState("");
 
-  // Function to reset all filters
+  // Reset all filters
   const resetFilters: () => void = () => {
     setName("");
     setPosition("");
