@@ -10,7 +10,7 @@ Includes:
 ✔ Reset Filters button  
 ✔ Unit tests (Vitest)
 
-## Install
+## Install dependencies (first thing)
 npm install
 
 ## Run API (Server)
