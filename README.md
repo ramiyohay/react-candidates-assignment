@@ -15,6 +15,7 @@ npm install
 
 ## Run API (Server)
 npm run server
+- It uses the file **db.json** for data
 
 ## Run app (Client)
 npm run dev
