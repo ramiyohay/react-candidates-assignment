@@ -1,0 +1,9 @@
+
+{
+  "candidates":[
+    {"id":1,"name":"Moshe Levi","email":"moshe@mail.com","position":"Frontend","status":"New","experience":2},
+    {"id":2,"name":"Tali Yaakov","email":"tali@mail.com","position":"Backend","status":"Interview","experience":5},
+    {"id":3,"name":"Meital Cohen","email":"meital@mail.com","position":"Frontend","status":"Hired","experience":4},
+    {"id":4,"name":"Rami Yohay","email":"rami@mail.com","position":"Backend","status":"New","experience":1}
+  ]
+}
