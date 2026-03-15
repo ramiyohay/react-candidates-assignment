@@ -2,6 +2,7 @@
 # React Candidates Assignment
 
 Includes:
+
 ✔ React + TypeScript  
 ✔ Vite  
 ✔ MUI v5  
